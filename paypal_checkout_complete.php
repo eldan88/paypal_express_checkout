@@ -1,9 +1,9 @@
 <?php include ("vendor/autoload.php");
 
 Braintree_Configuration::environment('sandbox');
-Braintree_Configuration::merchantId('r8j49sgytxyxjtrg');
-Braintree_Configuration::publicKey('m793x7zyjgwfncjx');
-Braintree_Configuration::privateKey('c6c843e4ffe9c3a48095695dc4657dec');
+Braintree_Configuration::merchantId('');
+Braintree_Configuration::publicKey('');
+Braintree_Configuration::privateKey('');
 
 
 
